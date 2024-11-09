@@ -2,4 +2,4 @@
 ---
 ---
 # Note
-## {Refer Youtube for Successful Completition of EXP8.}
+## Refer Youtube for Successful Completition of EXP8.
